@@ -15,6 +15,6 @@ Corporation Window > Kill Reports > Right-Click a Killmail > Copy External Kill 
 ```
 or
 ```
-Character Sheet > Interactions > Combat Log > Show Kills/Losses > Right-Click a Killmail > Copy External Kill Link
+Character Sheet > Interactions > Combat Log > Right-Click a Killmail > Copy External Kill Link
 ```
 just right-click > copy kill link as fast as you can, the script will queue each kill to be posted as fast as zkillboard allows
